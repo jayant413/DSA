@@ -1,0 +1,19 @@
+
+
+Q. Array Reverse complaxity
+-> 
+   if n length
+   swap n/2  => O(n/2)  
+
+   Hence , the time complaxity is O(n)
+
+
+
+Q. Linear search in array   =>  O(n)
+
+
+nested loop     : O(n * m )
+one by one loop : O (n + m)
+
+
+Q. Max & Min   => O(n)
